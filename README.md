@@ -9,12 +9,14 @@ recommends the type of visit required, categorizing it as
 a Primary Care visit alone, with a consultant, with a
 pharmacist, or with both. The system was developed
 using Python and the random forest algorithm.
+
 Data for training and evaluation was sourced from
 Fanous Clinic, USA. Our results demonstrate that the
 model effectively reduces the workload and time
 required by Primary Care physicians to review patient
 reports, allowing them to make more efficient and
 accurate scheduling decisions.
+
 The implementation of this scheduling recommender
 system offers significant practical benefits, including
 time savings for healthcare providers and expedited
